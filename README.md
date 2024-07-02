@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Suprio Biswas</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=supriobm&label=Profile%20views&color=0e75b6&style=flat" alt="supriobm" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=supriobm" alt="supriobm" /></a> </p>
 
 - 🔭 I’m currently working on **MyProject**
 
