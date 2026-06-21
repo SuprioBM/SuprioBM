@@ -15,14 +15,14 @@
 
 ## 🌐 Portfolio
 
-👉 https://your-portfolio-link.com
+👉 https://supriobiswas.me
 
 ---
 
 ### 🧠 What I Work With
 
 - **Frontend:** React, Next.js, Tailwind CSS, JavaScript  
-- **Backend:** Node.js, Express, MongoDB, REST APIs  
+- **Backend:** Node.js, Express, MongoDB, REST APIs, FastAPI 
 - **AI Integration:** OpenAI APIs, automation workflows, LLM-based features  
 - **Deployment:** Vercel, Render, GitHub, basic CI/CD  
 
