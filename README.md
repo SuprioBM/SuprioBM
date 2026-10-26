@@ -1,136 +1,145 @@
-<h1 align="center">Hi 👋, I'm Suprio Biswas</h1>
-<h3 align="center">Freelance Full-Stack & AI Developer from Bangladesh</h3>
+ <!-- Animated Header -->
+<div align="center">
 
----
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0D1117,50:0F766E,100:14B8A6&text=Suprio%20Biswas%20Mugdha&fontColor=FFFFFF&fontSize=52&fontAlignY=42&animation=fadeIn&stroke=14B8A6&strokeWidth=1" width="100%" alt="Animated header"/>
 
-### 👨‍💻 About Me
+<h3>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=14B8A6&center=true&vCenter=true&width=650&lines=Full-Stack+%26+AI+Developer;Building+AI-Powered+Web+Applications;Turning+Ideas+Into+Useful+Products;Exploring+Automation+%26+Scalable+Systems" alt="Typing animation"/>
+</h3>
 
-- 🔭 I build **web applications, SaaS platforms, and AI-powered tools**
-- ⚙️ Focused on **clean architecture, performance, and usability**
-- 🤖 Interested in **AI integration, automation, and scalable backend systems**
-- 🌍 Working with clients on **freelance web and AI projects**
-- 📫 Reach me at: **work@supriobiswas.me**
-
----
-
-## 🌐 Portfolio
-
-👉 https://supriobiswas.me
-
----
-
-### 🧠 What I Work With
-
-- **Frontend:** React, Next.js, Tailwind CSS, JavaScript  
-- **Backend:** Node.js, Express, MongoDB, REST APIs, FastAPI 
-- **AI Integration:** OpenAI APIs, automation workflows, LLM-based features  
-- **Deployment:** Vercel, Render, GitHub, basic CI/CD  
-
----
-
-### 🚀 Current Focus
-
-- Building AI-powered web applications  
-- Developing freelance client projects  
-- Improving system design and backend scalability  
-- Exploring automation and AI workflows  
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/supriobiswas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supriobiswas" height="30" width="40" /></a>
-<a href="https://fb.com/suprio632" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="suprio632" height="30" width="40" /></a>
-<a href="https://x.com/suprio632" target="blank">
-  <img align="center"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"
-       alt="x" height="30" width="40" />
-</a>
+<p>
+  <a href="https://supriobiswas.me"><img src="https://img.shields.io/badge/Portfolio-supriobiswas.me-0D9488?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:work@supriobiswas.me"><img src="https://img.shields.io/badge/Contact-Work%20With%20Me-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact"/></a>
+  <a href="https://linkedin.com/in/supriobiswas"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<img src="https://komarev.com/ghpvc/?username=supriobm&style=flat-square&color=0D9488&label=PROFILE+VIEWS" alt="Profile views"/>
 
-<p align="left">
+</div>
 
-<!-- Frontend -->
-<a href="https://react.dev" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-</a>
+---
 
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-</a>
+## 👨‍💻 About Me
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</a>
+I'm a freelance **Full-Stack & AI Developer from Bangladesh**, focused on building practical digital products that combine thoughtful engineering with useful AI capabilities.
 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-</a>
+- 🚀 Building web applications, SaaS platforms, and AI-powered tools.
+- 🤖 Integrating LLMs, AI APIs, and automation workflows into real-world products.
+- ⚙️ Interested in clean architecture, reliable APIs, and scalable backend systems.
+- 🌱 Continuously learning system design, performance optimization, and AI engineering.
+- 🤝 Open to freelance projects, collaborations, and opportunities to build meaningful products.
 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-</a>
+**My approach:** Build things that solve real problems, keep the architecture maintainable, and make the user experience count.
 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-</a>
+---
 
-<!-- Backend -->
-<a href="https://nodejs.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-</a>
+## 🛠️ Technology Stack
 
-<a href="https://expressjs.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-</a>
+<div align="center">
 
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</a>
+### Frontend
 
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-</a>
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind&theme=dark" alt="Frontend technologies"/>
 
-<!-- Database -->
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-</a>
+### Backend & AI
 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</a>
-<!-- Tools -->
-<img src="https://img.shields.io/badge/AI-000000?style=for-the-badge" />
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</a>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,django&theme=dark" alt="Backend technologies"/>
 
-<a href="https://github.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-</a>
+### Databases & Developer Tools
 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-</a>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,git,github,figma&theme=dark" alt="Databases and developer tools"/>
 
-<!-- Deployment -->
-<a href="https://vercel.com/" target="_blank" rel="noreferrer">
-  <img src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_light_background.png" alt="vercel" width="40" height="40"/>
-</a>
+### Deployment & Infrastructure
 
-<a href="https://render.com/" target="_blank" rel="noreferrer">
-  <img src="https://avatars.githubusercontent.com/u/36424661?s=200&v=4" alt="render" width="40" height="40"/>
-</a>
+<img src="https://skillicons.dev/icons?i=vercel,cloudflare,docker&theme=dark" alt="Deployment technologies"/>
 
-<a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" alt="cloudflare" width="40" height="40"/>
-</a>
+</div>
 
-</p>
+---
+
+## 🧠 What I'm Focused On
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AI Engineering
+
+Building AI-powered features, LLM integrations, automation workflows, and intelligent applications.
+
+</td>
+<td width="50%" valign="top">
+
+### 🏗️ Full-Stack Development
+
+Developing responsive frontends, REST APIs, backend services, and database-driven applications.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ System Design
+
+Learning distributed systems, caching, scaling strategies, reliability, and backend performance.
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 Product Building
+
+Turning ideas into working products with a focus on usability, maintainability, and practical value.
+
+</td>
+</tr>
+</table>
+
+---
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=supriobm&" alt="supriobm" /></p>
+---
 
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=1000&color=14B8A6&center=true&vCenter=true&width=500&lines=Code.+Commit.+Push.+Repeat.;Every+contribution+moves+you+forward.;Building+something+better+every+day." alt="Animated developer messages"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=supriobm&show_icons=true&hide_border=true&bg_color=0D1117&title_color=14B8A6&icon_color=14B8A6&text_color=E5E7EB&rank_icon=github" alt="GitHub statistics"/><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supriobm&layout=compact&hide_border=true&bg_color=0D1117&title_color=14B8A6&text_color=E5E7EB" alt="Most-used programming languages"/>
+
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=supriobm&hide_border=true&background=0D1117&ring=14B8A6&fire=F59E0B&currStreakLabel=14B8A6&sideLabels=E5E7EB&dates=9CA3AF" alt="GitHub contribution streak"/>
+
+</div>
+
+---
+
+## ⚡ The Developer Loop
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0D9488,50:14B8A6,100:F59E0B" width="100%" alt="Teal animated-style divider"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=1800&pause=700&color=14B8A6&center=true&vCenter=true&width=650&lines=%3E+git+add+.;%3E+git+commit+-m+%22keep+building%22;%3E+git+push+origin+main;%3E+repeat();%3E+ship+something+useful();" alt="Animated coding terminal"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:F59E0B,50:14B8A6,100:0D9488" width="100%" alt="Teal and amber divider"/>
+
+</div>
+
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+<a href="https://supriobiswas.me"><img src="https://img.shields.io/badge/Website-supriobiswas.me-0D9488?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
+<a href="https://linkedin.com/in/supriobiswas"><img src="https://img.shields.io/badge/LinkedIn-Suprio%20Biswas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://fb.com/suprio632"><img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+<a href="https://x.com/suprio632"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+<a href="mailto:work@supriobiswas.me"><img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+<br/><br/>
+
+*Building. Learning. Improving. Shipping.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14B8A6,100:0D1117&height=100&section=footer" width="100%" alt="Animated footer"/>
+
+</div>
